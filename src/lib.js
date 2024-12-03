@@ -3,7 +3,7 @@ export let b = "b";
 export function hello() {
   console.log("Hello");
 }
-// export const obj = {};
+export const obj = {};
 
 let c = "c";
 // let d = "d";
@@ -16,3 +16,9 @@ export { c as coucou };
 // export default function i() {}
 
 // export { c, d, obj as default };
+
+export default function i() {
+  console.log("i");
+}
+
+console.log("module lib loaded");
