@@ -1,4 +1,5 @@
-import "./lib.js";
+import "./app/app.js";
+// import "./lib.js";
 // import * as obj from "./lib.js";
 // import { a, b, hello, coucou as yo } from "./lib.js";
 
@@ -11,3 +12,5 @@ import "./lib.js";
 // console.log(yo);
 // hello();
 // console.log(obj.coucou);
+
+//import dynamique
