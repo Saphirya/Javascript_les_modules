@@ -12,5 +12,3 @@ import "./app/app.js";
 // console.log(yo);
 // hello();
 // console.log(obj.coucou);
-
-//import dynamique
